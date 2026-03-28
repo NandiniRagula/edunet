@@ -1,0 +1,6 @@
+Django==3.2.25
+geoip2==4.7.0
+Keras==2.3.1
+numpy==1.18.1
+opencv-python==4.2.0.32
+PyMySQL==1.1.1
